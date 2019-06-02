@@ -4,10 +4,10 @@ layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hi, I'm Tom! 👋
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+I'm a 28 y/o self-taught Software Development Engineer. I currently work for Capital One based in Nottingham, UK. Prior to this I worked as a Physiotherapist for 7 years since qualifying from university. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+At the start of 2018, I made the decision to change career and began teaching myself how to code in my spare time. I started with HTML and CSS before naturally progressing to learning the basics of JavaScript. I practiced what I had learnt by creating some simple web apps along the way, which you can checkout on my GitHub. In Feb 2019, I was offered my very first job in tech. I currently work in Web Dev using technologies such as React, Node.js and AWS.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+In my spare time, I enjoy reading books, playing football, and spending time with my wonderful fiancée, daughter and dog (Ralph the Pug! 🐶).
