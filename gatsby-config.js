@@ -3,7 +3,6 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
     title: 'Blog | Tom',
     subtitle:
       'I\'m a Software Engineer. This is a blog about my journey into tech. And beyond.',
@@ -41,7 +40,6 @@ module.exports = {
           {
             site {
               siteMetadata {
-                siteUrl: url
                 title
                 description: subtitle
               }
@@ -120,39 +118,6 @@ module.exports = {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
         fonts: ['roboto:400,400i,500,700'],
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-sitemap',
-      options: {
-        query: `
-            {
-              site {
-                siteMetadata {
-                  url
-                }
-              }
-              allSitePage(
-                filter: {
-                  path: { regex: "/^(?!/404/|/404.html|/dev-404-page/)/" }
-                }
-              ) {
-                edges {
-                  node {
-                    path
-                  }
-                }
-              }
-          }`,
-        output: '/sitemap.xml',
-        serialize: ({ site, allSitePage }) =>
-          allSitePage.edges.map(edge => {
-            return {
-              url: site.siteMetadata.url + edge.node.path,
-              changefreq: 'daily',
-              priority: 0.7,
-            }
-          }),
       },
     },
     'gatsby-plugin-offline',
