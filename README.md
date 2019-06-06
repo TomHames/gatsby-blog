@@ -3,7 +3,6 @@
 This site is using [Gatsby](https://github.com/gatsbyjs/gatsby), a blazing-fast modern site generator for React, and is deployed through [Netlify](https://www.netlify.com/), an all-in-one platform for automating modern web projects.
 
 It is based off the [Lumen v2](https://github.com/GatsbyCentral/gatsby-v2-starter-lumen) starter template, which is a minimal, lightweight and mobile-first starter for creating blogs.
-<hr />
 
 ## Getting Started
 
