@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://lumen.netlify.com',
+    url: 'https://lumen.netlify.com',
     title: 'Blog | Tom',
     subtitle:
       'I\'m a Software Engineer. This is a blog about my journey into tech. And beyond.',
@@ -55,8 +55,8 @@ module.exports = {
                 Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.frontmatter.description,
                   date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  url: site.siteMetadata.url + edge.node.fields.slug,
+                  guid: site.siteMetadata.url + edge.node.fields.slug,
                   custom_elements: [{ 'content:encoded': edge.node.html }],
                 })
               ),
@@ -129,7 +129,7 @@ module.exports = {
             {
               site {
                 siteMetadata {
-                  siteUrl
+                  url
                 }
               }
               allSitePage(
@@ -148,7 +148,7 @@ module.exports = {
         serialize: ({ site, allSitePage }) =>
           allSitePage.edges.map(edge => {
             return {
-              url: site.siteMetadata.siteUrl + edge.node.path,
+              url: site.siteMetadata.url + edge.node.path,
               changefreq: 'daily',
               priority: 0.7,
             }
