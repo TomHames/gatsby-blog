@@ -15,15 +15,13 @@ class Links extends React.Component {
         <ul className="links__list">
           <li className="links__list-item">
             <a
-              href={`https://www.github.com/TomHames${links.github}`}
+              href={`https://github.com/TomHames${links.github}`}
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="icon-github" />
             </a>
           </li>
-        </ul>
-        <ul className="links__list">
           <li className="links__list-item">
             <a
               href={`https://www.linkedin.com/in/tom-hames-0036a889/${links.linkedin}`}
@@ -33,8 +31,6 @@ class Links extends React.Component {
               <i className="icon-linkedin" />
             </a>
           </li>
-        </ul>
-        <ul className="links__list">
           <li className="links__list-item">
             <a href={`mailto:${links.email}`}>
               <i className="icon-mail" />

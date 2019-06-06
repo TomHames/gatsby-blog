@@ -1,8 +1,8 @@
 ---
 title: How I taught myself to code 📚
-date: "2019-06-23"
+date: "2019-06-12"
 layout: post
-draft: false
+draft: true
 path: "/posts/resources/"
 category: "Software"
 tags:
