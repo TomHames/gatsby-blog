@@ -10,7 +10,7 @@ tags:
 description: "Welcome to my blog..."
 ---
 
-My name is Tom and I'm a Software Development Engineer for Capital One. Welcome to my first ever blog! 
+My name is Tom and I'm a Software Engineer for Capital One.
 
 This blog will be about a few things... 
 
