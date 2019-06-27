@@ -6,7 +6,7 @@ module.exports = {
     title: 'Blog | Tom',
     subtitle:
       'I\'m a Software Engineer. This is a blog about my journey into tech. And beyond.',
-    copyright: '© All rights reserved. Credit to alxshelepenok for the template.',
+    copyright: '© All rights reserved. 👏 to alxshelepenok for the template.',
     disqusShortname: '',
     menu: [
       {

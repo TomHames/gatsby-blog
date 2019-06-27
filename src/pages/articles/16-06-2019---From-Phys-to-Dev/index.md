@@ -7,7 +7,7 @@ path: "/posts/phys-to-dev/"
 category: "Software"
 tags:
   - "Software"
-description: "How I changed my career from non-tech to tech in 12 months."
+description: "How I changed my career from healthcare to tech in 12 months."
 ---
 
 It's 3pm on a Wednesday afternoon. I am talking to a colleague about our codebase, coffee in hand, leaning over our MacBooks. This time, just a few months ago, I was talking to a patient about their back, massage oil in hand, leaning over a treatment table. How time's changed...
