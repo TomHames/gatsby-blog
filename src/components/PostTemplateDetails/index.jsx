@@ -62,8 +62,7 @@ class PostTemplateDetails extends React.Component {
           <div className="post-single__footer">
             {tagsBlock}
             <hr />
-            <p className="post-single__footer-text">
-              {subtitle}
+            <p>
             </p>
             {commentsBlock}
           </div>

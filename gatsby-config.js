@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    title: 'Blog | Tom',
+    title: 'Tom\'s Blog',
     subtitle:
       'I\'m a Software Engineer. This is a blog about my journey into tech. And beyond.',
     copyright: '© All rights reserved. 👏 to alxshelepenok for the template.',

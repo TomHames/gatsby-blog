@@ -10,7 +10,7 @@ tags:
 description: "Welcome to my blog..."
 ---
 
-My name is Tom and I'm a Software Engineer for Capital One.
+My name is Tom and I'm a Software Engineer.
 
 This blog will be about a few things... 
 
@@ -18,6 +18,6 @@ Firstly, I want to write about my journey as a self-taught developer. Coming fro
 
 Secondly, I want to use this blog as a learning platform, for both me and you. Being self-taught and completely new to tech, I have a *lot* to learn. The sheer volume of knowledge one has to learn as a noob is rather overwhelming. To counter this I want to use this blog to demonstrate my compentency. I believe "the best way to learn is to teach" and to teach as simply as possible. I hope you find value in this. 
 
-And finally, scattered amongst the posts about my journey and educational posts as I further my learning, you may stumble across the occasional post about things I enjoy doing in my spare time.
+And finally, you might find scattered about stuff I enjoy doing in my spare time or an occasional off the cuff rant. 
 
-I hope you enjoy...
+Enjoy 🤭...
