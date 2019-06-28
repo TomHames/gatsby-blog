@@ -11,18 +11,23 @@ description: "The resources I recommend for complete beginners"
 ---
 In this post I want to share with you the resources I used to learn how to code. Due to the vast amount of resources available, it is easy to become overwhelmed. It's also difficult to know which ones are best to begin with. Below are the top three resources I recommend if you're getting started (in no particular order):
 
+## 1.
+
 ![codecademy](./codecademy.jpg)
 
 If you simply type 'how to learn to code' into Google, one of the first links you'll come across is  [Codecademy](https://www.codecademy.com/). Codecademy was the first website I started with. It did a fantastic job of introducing me to HTML and CSS. Their inbuilt text editor with automatic preview were great in providing me with realtime feedback and changes to my code. Seeing changes occur right in front of my eyes was both very satisfying and great for demonstrating how the changes to my code reflected changes to the structure or styling of a webpage. The tutorials helped me "dip my toes in the water" of web development. It essentially helped provide me of a good overview of how a webpage is constructed.
 
 The only downside that I found using Codecademy was that they purposely "hold your hand" through most of the tutorials. Whilst this is invaluable to begin with, it quickly becomes a hinderance. Without "thinking for yourself" there is a concern that what you learn isn't retained, or even goes deep enough for you to fully understand a given topic. Which leads us into...
 
+## 2.
+
 ![freeCodeCamp](./freecodecamp.png)
+
 After I felt I had a good grasp on HTML and CSS, it is natural to progress to learn the basics of JavaScript. I used [freeCodeCamp]([https://www.freecodecamp.org/](https://www.freecodecamp.org/)), a non-profit organisation, to learn how to 'properly' code. Properly being that HTML and CSS are Markdown and Styling lanuages, respectively. They are not a Programming lanuguage i.e. they cannot write instructions through code to a computer in order for the computer to perform actions.
 
 **Warning: preach alert**...
 
-![preach gif](https://media.giphy.com/media/3o6MbisQwZAh4Lqesw/giphy.gif)
+![preach gif](./bart.gif)
 
 This is where I talk about how amazing freeCodeCamp is. I would estimate that 70% of my learning time came from using freeCodeCamp. Here is why:
 
@@ -33,6 +38,8 @@ Secondly, in order to "pass" a certain topic, like front-end web development, yo
 Finally, this is probably the most important of all benefits of freeCodeCamp - the community. freeCodeCamp's community is a fantastic, supportive set of individuals guided by the CEO Quincy Larson. There are Forums, a YouTube channel, a blog (recently moved from Medium to hosted by freeCodeCamp), Podcasts etc. 
 
 Most of us when learning to code do so in isolation and that can be bitter sweet. On one hand it can be a blessing as you debug problems yourself and learn how to search for the answers on Google, which ends up being a valuable skill. And on the other hand it can be a real struggle when you inevitably run into trouble with your learning or projects. The freeCodeCamp community were fantastic at helping me answer questions, point me in the right direction, give me reassurance etc. They're a wonderful set of people who I'm very grateful for. 🙏
+
+## 3.
 
 ![Team Treehouse](./treehouselogo.png)
 
