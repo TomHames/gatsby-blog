@@ -14,4 +14,4 @@ In 2019 I was offered my very first job in tech. I now work as a Software Engine
 
 In my spare time, I enjoy reading books, playing football, and spending time with my wonderful fiancée, daughter and dog (Ralph the Pug! 🐶).
 
-![family](./family.jpg)
+![family](./family-pic.jpg)
