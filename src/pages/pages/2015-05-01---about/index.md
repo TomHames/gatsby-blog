@@ -13,5 +13,3 @@ In 2018 I made the decision to change career and began teaching myself how to co
 In 2019 I was offered my very first job in tech. I now work as a Software Engineer in Web using technologies such as React, Node.js and AWS.
 
 In my spare time, I enjoy reading books, playing football, and spending time with my wonderful fiancée, daughter and dog (Ralph the Pug! 🐶).
-
-![family](./family-pic.jpg)
