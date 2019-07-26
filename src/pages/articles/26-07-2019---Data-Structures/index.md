@@ -9,9 +9,7 @@ tags:
   - "Software" 
 description: "The building blocks for everything we use"
 ---
-This is part 2 of a 3 part series: Big 0, Data Structures and Algorithms. The aim here is to explaind what data structures are, why you should understand them and the common types.
-
-In this post I'll be introducing the following data structures:
+This is part 2 of a 3 part introductory series into the Big 0, Data Structures and Algorithms. This article will introduce what data structures are, why you should understand them and to discuss the most common data structures. I'll be introducing the following:
 
 - Arrays
 - Linked Lists
@@ -33,7 +31,7 @@ I prefer defining a data structure as:
 
 ...I have a habit of oversimplifying, but hey, take your pick! 🤷‍♀️
 
-## Why are data structures important? 💡
+## Why are data structures important?
 
 Understanding and implementing data structures at the deepest level is vital. It is the difference between designing an app that delivers returns your search results within a blink of an eye compared to one which takes several minutes to complete. Data structures are the foundations, the building blocks of every piece of software. 
 
