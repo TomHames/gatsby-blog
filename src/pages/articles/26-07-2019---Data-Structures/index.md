@@ -9,7 +9,7 @@ tags:
   - "Software" 
 description: "The building blocks for everything we use"
 ---
-This is part 2 of a 3 part series: Big 0, Data Structures and Algorithms. The aim here is to what data structures are, why you should know them and the common types.
+This is part 2 of a 3 part series: Big 0, Data Structures and Algorithms. The aim here is to explaind what data structures are, why you should understand them and the common types.
 
 In this post I'll be introducing the following data structures:
 
