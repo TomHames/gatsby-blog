@@ -9,9 +9,9 @@ tags:
   - "Software" 
 description: "The building blocks for everything we use"
 ---
-This is the last of a 3 part series: Big 0, Algorithms and Data Structures. The aim here is to discuss common data structures that are used in software development and to link the previously two discussed topics. 
+This is part 2 of a 3 part series: Big 0, Data Structures and Algorithms. The aim here is to discuss common data structures that are used in software development and to link the previously two discussed topics. 
 
-I'll cover the following data structures:
+In this post I'll be introducing the following data structures:
 
 - Arrays
 - Linked Lists
@@ -35,9 +35,12 @@ I prefer defining a data structure as:
 
 ## Why are data structures important? 💡
 
-Understanding and implementing data structures at the deepest level is vital. It is the difference between designing an app that delivers your results within a blink of an eye, compared to one which takes several minutes to complete. Data structures are the foundations, the building blocks of every piece of software. 
+Understanding and implementing data structures at the deepest level is vital. It is the difference between designing an app that delivers returns your search results within a blink of an eye compared to one which takes several minutes to complete. Data structures are the foundations, the building blocks of every piece of software. 
 
-However, the depth and breadth of data structures knowledge and implementation massively depends on your situation and circumstance. If you are a back end engineer and are using C or Rust to build software, having a solid knowledge of data structures is paramount. If you are a front end engineer using JavaScript or Python for example, it is a very different story. 
+The depth of your data structures knowledge depends on your situation and circumstance e.g. programming in C compared to JavaScript. 
+
+But IMO whether you actually code data structures at the lowest level or not, I would argue that having a good understanding of what data structures are and why they are important is necessary.
+
 
 ## Do I need to know data structures if I'm a Web Developer?
 
