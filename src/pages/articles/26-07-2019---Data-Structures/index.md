@@ -9,7 +9,7 @@ tags:
   - "Software" 
 description: "The building blocks for everything we use"
 ---
-This is part 2 of a 3 part series: Big 0, Data Structures and Algorithms. The aim here is to discuss common data structures that are used in software development and to link the previously two discussed topics. 
+This is part 2 of a 3 part series: Big 0, Data Structures and Algorithms. The aim here is to what data structures are, why you should know them and the common types.
 
 In this post I'll be introducing the following data structures:
 
