@@ -1,5 +1,5 @@
 ---
-title: Intro to Data Structures 🌳
+title: Intro to Data Structures 💾
 date: "2019-07-26"
 layout: post
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "Software" 
 description: "The building blocks for everything we use"
 ---
-This is part 2 of a 3 part introductory series into the Big 0, Data Structures and Algorithms. This article will introduce what data structures are, why you should understand them and discuss the most common data structures. I'll be introducing the following:
+This is 2 of a 3 part introductory series into the Big 0, Data Structures and Algorithms. This article will introduce what data structures are, why you should understand them and discuss the most common data structures. I'll be introducing the following:
 
 - Arrays
 - Linked Lists
