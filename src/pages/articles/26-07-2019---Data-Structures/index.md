@@ -85,7 +85,7 @@ But I prefer this:
 
 <span><center>From [here]()</center></span>
 
-Arrays are fast at accessing a particular value and slow for adding, searching for, or removing values (depending on their location in the array). We'll look into this more further on in the article.
+Arrays are fast at accessing a particular value and slow for adding, searching for, or removing values (depending on their location in the array). We'll look into this more later on in the article.
 
 *Note: I find analogies and linking abstract data structures (or computer science theory in general) to real world objects really helpful at remembering things as I'm learning. If you'd like to understand more about how are brains learn best, and what you can do to optimise it, check out this [book](https://www.amazon.co.uk/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU).*
 
