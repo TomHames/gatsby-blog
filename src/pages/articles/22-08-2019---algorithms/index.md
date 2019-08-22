@@ -91,8 +91,9 @@ For example, consider the list of names are now in sorted order. You have names 
 
 Binary Search works by selecting the middle value (M). Then it asks:
 
-> 1. Is this the value? If yes, return it. 
->2. If not, is it more than? Or less than?
+1. Is this the value? 
+2. If yes, return it. 
+3. If no, is it more than? Or less than?
 
 In this instance K is less than M, so all the values greater than M are disregarded and the process is repeated until the value is found.
 
@@ -101,10 +102,10 @@ The beauty in binary search lies in that each time you run through the algorithm
 The code for using binary search in JavaScript is below.
 
 ``` js
-function binarySearch (arr, value) {
-    var start = 0;
-    var end = arr.length - 1;
-    var middle = Math.floor((start + end) / 2);
+const binarySearch = (arr, value) => {
+    let start = 0;
+    let end = arr.length - 1;
+    let middle = Math.floor((start + end) / 2);
 
     while (arr[middle] !== value && start < end) {
         if (arr[middle] > value) {
@@ -401,5 +402,7 @@ Also, check out Colt Steele's JavaScript Algorithms and Data Structures Mastercl
 And finally, have a look into the following resources which I used to help provide me with the content for this article:
 
 [Geek for Geeks](https://www.geeksforgeeks.org/)
+
 [Getting Sorted & Big 0 Notation](https://www.youtube.com/watch?v=kgBjXUE_Nwc)
+
 [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
