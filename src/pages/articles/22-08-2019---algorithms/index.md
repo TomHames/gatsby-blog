@@ -97,7 +97,7 @@ Binary Search works by selecting the middle value (M). Then it asks:
 
 In this instance K is less than M, so all the values greater than M are disregarded and the process is repeated until the value is found.
 
-The beauty in binary search lies in that each time you run through the algorithm, the input size is halved. This is what makes binary search so efficient. This type of behavior is called logarithmic and is defined in big 0 as **0(log n)**. This means that the time 
+The beauty in binary search lies in that each time you run through the algorithm, the input size is halved. This is what makes binary search so efficient. This type of behavior is called logarithmic and is defined in big 0 as **0(log n)**.
 
 The code for using binary search in JavaScript is below.
 
