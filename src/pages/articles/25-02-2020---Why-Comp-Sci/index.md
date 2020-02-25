@@ -34,7 +34,7 @@ However, doing so comes with pitfalls. You predominantly learn through memorisin
 
 It's like constructing a house on poor foundations. You've got something up, it does a job, but you're not sure how it's actually worked, and if it's tested... well! 😬
 
-![Weak Foundations](house.jpg)
+![Weak Foundations](house.png)
 <span><center>Photo by [Arnold Dogelis](https://unsplash.com/@adogelis) from [Unsplash](https://unsplash.com/)</center></span>
 
 So, what can you do about it?
